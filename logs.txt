@@ -1,0 +1,38 @@
+commit 1bf21fbe6156c594cf1c0903ce486e1c1f81d84d (HEAD -> master, origin/master, origin/bug3, bug3)
+commit 1bf21fbe6156c594cf1c0903ce486e1c1f81d84d (HEAD -> master, origin/master, origin/bug3, bug3)
+Author: ilinaa <ilina.angelovska@gmail.com>
+Date:   Wed Apr 5 12:52:19 2023 +0200
+
+    Fix method sumEvenNUmbers
+
+commit 4ca76596d5b18340d5ca4c29aa3025069b4e8c74
+Merge: 39bdbcd e177864
+Author: ilinaa <ilina.angelovska@gmail.com>
+Date:   Wed Apr 5 16:02:04 2023 +0200
+
+    Merge branch 'bug2'
+
+commit e177864186d231fa832d6dd288fad1cdba04deed (origin/bug2, bug2)
+Author: ilinaa <ilina.angelovska@gmail.com>
+Date:   Wed Apr 5 12:46:28 2023 +0200
+
+    Fix wrong condition in filterOddNUmbers
+
+commit 39bdbcd377481d4e1cccffa1289f65f7d7945b9b (origin/bug1, bug1)
+Author: ilinaa <ilina.angelovska@gmail.com>
+Date:   Wed Apr 5 12:44:23 2023 +0200
+
+    Fix wrong loop for reading
+
+commit 937d38282faa87618f3a5e7e2ebc8510b9f189fa
+Author: ilinaa <ilina.angelovska@gmail.com>
+Date:   Wed Apr 5 12:39:27 2023 +0200
+
+    Add java class
+
+commit f9be9e48cca08db57bc83034b3b613c55ac8867e
+Author: ilinaa <ilina.angelovska@gmail.com>
+Date:   Wed Apr 5 12:38:11 2023 +0200
+
+    Initial commit
+(END)
